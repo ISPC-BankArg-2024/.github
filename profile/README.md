@@ -1,7 +1,8 @@
-Proyecto BankArg 2024
+# Proyecto BankArg 2024
 
+<img src="https://i.ibb.co/LN7NcnR/logo-white.png" alt="logo-white" border="0" Width="300" Height="300" >
 
-# Indice
+## Indice
 
 |Topic|Description|
 |---|---|
